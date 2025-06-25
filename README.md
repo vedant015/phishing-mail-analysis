@@ -1,13 +1,13 @@
 # Phishing-mail-analysis
 
-# 🛡️ Task 2: Phishing Email Analysis
+# Task 2: Phishing Email Analysis
 
-## 📌 Objective
+##  Objective
 Analyze a suspicious email to identify phishing indicators and understand how attackers use social engineering to manipulate victims.
 
 ---
 
-## 📂 Sample Email Summary
+##  Sample Email Summary
 
 **From:** Peoples Bank  
 **Subject:** EFT Activity Notification (Your payment is processing)  
@@ -19,7 +19,7 @@ Claims a payment of $495.42 was made and urges the user to verify it via an exte
 
 ---
 
-## 🔍 Phishing Indicators
+##  Phishing Indicators
 
 | # | Indicator | Explanation |
 |---|-----------|-------------|
